@@ -20,6 +20,7 @@ namespace ConsoleApp2
             Console.WriteLine("I am " + MyAge + " years old");
             Console.WriteLine("My shoe size is " + MyShoeSize);
             Console.WriteLine( "Do I have a pet? " + HaveIApet);
+
         }
     }
 }
